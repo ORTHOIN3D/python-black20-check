@@ -28,7 +28,7 @@ This tells `black` which files we should ignore.
 Include this in your `.github/workflows/main.yaml`:
 
 ```yaml
-uses: RojerGS/python-black-check@master
+uses: ORTHOIN3D/python-black20-check@20.8b1
 ```
 or, if you want to override any of the defaults,
 
